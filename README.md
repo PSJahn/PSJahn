@@ -37,8 +37,6 @@
 ## Socials
 [![YouTube](https://img.shields.io/badge/PSJahn-%23E4405F.svg?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC49E6Bc5SrCs6HLnCmG_6Kg)
 
-![Discord](https://img.shields.io/badge/Discord-blue.svg?color=4682B4&style=flat&logo=discord&logoColor=white) DON'T ADD ME, BECAUSE I HATE YOU **PSJahn#7668**
+<p><a href="#"><img src="https://img.shields.io/badge/Discord-blue.svg?color=4682B4&style=flat&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;<b>PSJahn#7668</b> DON'T ADD ME, BECAUSE I HATE YOU </p>
 
-
-
-♨️ women
+![alt text](https://raw.githubusercontent.com/PSJahn/PSJahn/main/MD-RESOURCES/built.svg "built with aids")
