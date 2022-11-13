@@ -1,6 +1,5 @@
 
-# **I AM THE ONE. THE ONLY.**
-# **PSJAHN**
+# **<ins><u>based</u></ins> developer from [germany](https://www.youtube.com/watch?v=umlKCuuLZW0)**
 
 💪I'm <ins><u>STRONGER</u></ins>
 
@@ -18,21 +17,28 @@
 &nbsp;&nbsp;
 <a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/FR@2x.png?raw=true" /></a>
 &nbsp;&nbsp;
-(<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/JP@2x.png?raw=true" /></a>)  <sub>lol look at the japanese flag with the arms lololo</sub>
+(<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/JP@2x.png?raw=true" /></a>)  <sub>lolololo look at the japanese flag with the arms lololo</sub>
 </p>
 
-## (Other) Languages
-- ♨️**Java**
-- 🥱**C#**
-- 💀**C++**
-- **HTML** <sub>is NOT a programming Language</sub>
-- <sub>neither is</sub> **CSS**
-- **JavaScript**
-- 😊**also im very good at doing your mom**
-### Socials
+## Skills
+🟩🟩🟩🟩🟩 ♨️**Java** 
+
+🟩🟩🟩🟩🟩 🥱**C#** 
+
+🟩🟩🟥🟥🟥 💀**C++** 
+
+🟩🟩🟥🟥🟥 👶**HTML** <sub>is NOT a programming Language</sub> 
+
+🟩🟩🟩🟥🟥 ✨<sub>neither is</sub> **CSS** 
+
+🟩🟩🟩🟩🟥 📜**JavaScript** 
+
+⭐⭐⭐⭐⭐ 😊**also im very good at doing your mom** 
+## Socials
 [![YouTube](https://img.shields.io/badge/PSJahn-%23E4405F.svg?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC49E6Bc5SrCs6HLnCmG_6Kg)
 
 ![Discord](https://img.shields.io/badge/Discord-blue.svg?color=4682B4&style=flat&logo=discord&logoColor=white) DON'T ADD ME, BECAUSE I HATE YOU **PSJahn#7668**
+
 
 
 ♨️ women
