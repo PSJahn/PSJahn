@@ -27,9 +27,9 @@
 
 🟩🟩🟥🟥🟥 💀**C++** 
 
-🟩🟩🟥🟥🟥 👶**HTML** <sub>is NOT a programming Language</sub> 
+🟩🟧🟥🟥🟥 👶**HTML** <sub>is NOT a programming Language</sub> 
 
-🟩🟩🟩🟥🟥 ✨<sub>neither is</sub> **CSS** 
+🟩🟧🟥🟥🟥 ✨<sub>neither is</sub> **CSS** 
 
 🟩🟩🟩🟩🟥 📜**JavaScript** 
 
