@@ -34,5 +34,3 @@
 🟩🟩🟩🟩🟥 📜**JavaScript** 
 
 ⭐⭐⭐⭐⭐ 😊**also im very good at doing your mom** 
-
-![alt text](https://raw.githubusercontent.com/PSJahn/PSJahn/main/MD-RESOURCES/built.svg "built with aids")
