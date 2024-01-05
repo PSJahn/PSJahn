@@ -20,17 +20,3 @@
 (<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/JP@2x.png?raw=true" /></a>)  <sub>lolololo look at the japanese flag with the arms lololo</sub>
 </p>
 
-## Skills
-🟩🟩🟩🟩🟩 ♨️**Java** 
-
-🟩🟩🟩🟩🟩 🥱**C#** 
-
-🟩🟩🟥🟥🟥 💀**C++** 
-
-🟩🟧🟥🟥🟥 👶**HTML** <sub>is NOT a programming Language</sub> 
-
-🟩🟧🟥🟥🟥 ✨<sub>neither is</sub> **CSS** 
-
-🟩🟩🟩🟩🟥 📜**JavaScript** 
-
-⭐⭐⭐⭐⭐ 😊**also im very good at doing your mom** 
