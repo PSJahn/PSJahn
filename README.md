@@ -15,8 +15,6 @@
 &nbsp;&nbsp;
 <a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/US@2x.png?raw=true" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/FR@2x.png?raw=true" /></a>
-&nbsp;&nbsp;
-(<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/JP@2x.png?raw=true" /></a>)  <sub>lolololo look at the japanese flag with the arms lololo</sub>
+<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/FR@2x.png?raw=true" /></a> <sub>B2</sub>
 </p>
 
