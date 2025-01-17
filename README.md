@@ -1,5 +1,5 @@
 
-# **<ins><u>based</u></ins> developer from [germany](https://www.youtube.com/watch?v=umlKCuuLZW0)**
+# **<ins><u>based</u></ins> developer from germany**
 
 💪I'm <ins><u>STRONGER</u></ins>
 
